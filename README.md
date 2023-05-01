@@ -58,8 +58,10 @@ Latent Factor Model - SVD –
 * Users and items are mapped to latent factor space
 * qi – item-concept mapping for item i
 * pu – user-concept mapping for user u
-  <img src="https://user-images.githubusercontent.com/31558571/235484363-f40ad4f9-b030-40f7-b9de-ea1e195f24b1.png" width="20%" height="20%">
+  
+  <img src="https://user-images.githubusercontent.com/31558571/235484363-f40ad4f9-b030-40f7-b9de-ea1e195f24b1.png" width="30%" height="30%">
 * Funk SVD was used for minimization using learning rate = 0.009, and regularization constant = 0.05
+  
   <img src="https://user-images.githubusercontent.com/31558571/235463817-4ef58d05-5c32-42e9-a916-c0a10d1b233e.png" width="20%" height="20%">
 
 ## Item Recommendation
