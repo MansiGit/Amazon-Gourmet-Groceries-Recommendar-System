@@ -1,4 +1,4 @@
-# Amazon-Gourmet-Groceries-Recommendar-System
+# Amazon-Gourmet-Groceries-Recommender-System
 ## Problem & Dataset
 * How to find the best recommendations for the user based on their likes and dislikes
 * Dataset : Grocery and Gourmet Food + the metadata
