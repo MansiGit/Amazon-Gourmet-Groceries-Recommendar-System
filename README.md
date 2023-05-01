@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/31558571/235461702-a84efa61-1b61-4fd2-bef4-737445348704.png" width="50%" height="50%">
     <img src="https://user-images.githubusercontent.com/31558571/235461780-f77c5ac1-4707-4d78-8dcf-a25dbeb662a4.png" width="50%" height="50%">
     <img src="https://user-images.githubusercontent.com/31558571/235461801-e52d2853-4fdf-4f98-afa8-eecd230332db.png" width="30%" height="30%">
-    <img src="https://user-images.githubusercontent.com/31558571/235461810-c79ae3fc-ce53-4075-ac40-0ec918e1023e.png" width="20%" height="20%">
+    <img src="https://user-images.githubusercontent.com/31558571/235485094-90b2441e-64cb-408c-ad2e-053a16d0ca8c.png" width="20%" height="20%">
   </div>
 
 ## Data Preping
