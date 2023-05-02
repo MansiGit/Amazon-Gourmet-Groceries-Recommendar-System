@@ -70,7 +70,7 @@ Latent Factor Model - SVD –
 * Step 3: Sort the list such that we get the top 10 values for each user. 
 
 ## Metrics
-<img src="https://user-images.githubusercontent.com/31558571/235463927-75215ac0-77b2-4d3f-ba5e-ee5725e8090d.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/31558571/235575051-8abc7369-1728-4471-8e5a-9008adf03cce.png" width="50%" height="50%">
 
 ## Future Work
 * Incorporate more features – price ranges, seasonality of products, 
