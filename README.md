@@ -2,7 +2,10 @@
 ## Problem & Dataset
 * How to find the best recommendations for the user based on their likes and dislikes
 * Dataset : Grocery and Gourmet Food + the metadata
-<img src="https://user-images.githubusercontent.com/31558571/235461584-51b16937-7841-40e9-b6f1-3d90c9bda3ad.png" width="40%" height="40%">
+<img src="https://user-images.githubusercontent.com/31558571/235461584-51b16937-7841-40e9-b6f1-3d90c9bda3ad.png" width="30%" height="30%">
+The steps involved are as follows :
+
+<img src="https://user-images.githubusercontent.com/31558571/235576066-fd339a82-6f5b-4a02-9d6c-3e9adbc1a24b.png" width="60%" height="50%">
 
 ## Exploratory Data Analysis
 * The amazon dataset comes with a lot of interesting features, we have used (ASIN, ReviewerID, Rating, Category, Title, Description)
